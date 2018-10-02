@@ -170,22 +170,22 @@ class Metronome {
     }
 
     session1bpm() {
-        this.bpm = 96;
+        this.bpm = 80;
     }
     session2bpm() {
-        this.bpm = 99;
+        this.bpm = 96;
     }
     session3bpm() {
-        this.bpm = 115;
+        this.bpm = 112;
     }
     session4bpm() {
-        this.bpm = 124;
+        this.bpm = 128;
     }
     session5bpm() {
-        this.bpm = 129;
+        this.bpm = 144;
     }
     session6bpm() {
-        this.bpm = 134;
+        this.bpm = 160;
     }
 
     updateDisplay() {
